@@ -1,0 +1,1271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Laundry Management System
+</name>
+</assembly>
+<members>
+<member name="T:Laundry_Management_System.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._011_laundry">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._013_line">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._018_washing_machine">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._019_shirts">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._021_laundry_basket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._022_freshener">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._023_towels">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._025_ironing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._030_socks">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._050_washing">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources._3D_Vector_Dots">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Abstract_BG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.aqua_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Background___Transparent">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.blue_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_02">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_03">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_04">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_05">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Button_06">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.disabled_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Dry_Clean">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Eye_Close">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Eye_Open1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Floral_BG">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.floral_lines_curved">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.gold_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.green_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Icon_Laundry_Linen">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Iron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_5">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_7">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_8">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_9">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_dot">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.keyboard_key_left">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Laundry_icon_32x32">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Loader">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.members">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.patient_green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.red_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Setting_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Silver_Shadow_Button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Slider_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Steam_Iron">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Users">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Wash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVE">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVE.CUSTOMER_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVE.CUSTOMER_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVE.CUSTOMER_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.CUSTOMER_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.CUSTOMER_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.CUSTOMER_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.CUSTOMER_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.CUSTOMER_LIST_ACTIVE)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.CUSTOMER_LIST_ACTIVETableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLogin">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLogin.SYS_USERSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLogin.SYS_USERSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLogin.SYS_USERSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLoginTableAdapters.SYS_USERSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.conLogin,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.conLogin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.conLogin,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.conLogin)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.conLoginTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS.CUSTOMER_CONTACTSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS.CUSTOMER_CONTACTSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS.CUSTOMER_CONTACTSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.CUSTOMER_CONTACTSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_CONTACTSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS.CUSTOMER_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS.CUSTOMER_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS.CUSTOMER_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.CUSTOMER_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.LAUNDRY_DB_CUSTOMER_DETAILSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations.COMPANY_CONFIGURATIONSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations.COMPANY_CONFIGURATIONSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations.COMPANY_CONFIGURATIONSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.COMPANY_CONFIGURATIONSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_DB_CompanyConfigurations)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CompanyConfigurationsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERS.SYS_USERSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERS.SYS_USERSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERS.SYS_USERSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.SYS_USERSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_DBSYS_USERS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_DBSYS_USERS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_DBSYS_USERS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_DBSYS_USERS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DBSYS_USERSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL.CUSTOMER_FULLDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL.CUSTOMER_FULLRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL.CUSTOMER_FULLRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.CUSTOMER_FULLTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULL)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_CUSTOMER_FULLTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS.PRODUCT_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS.PRODUCT_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS.PRODUCT_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.PRODUCT_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_PRODUCT_DETAILS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_PRODUCT_DETAILSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILS.ORDER_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILS.ORDER_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILS.ORDER_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILSTableAdapters.ORDER_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._ORDER_DETAILS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._ORDER_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._ORDER_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._ORDER_DETAILS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._ORDER_DETAILSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS.ORDER_TASK_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS.ORDER_TASK_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS.ORDER_TASK_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.ORDER_TASK_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_ORDER_TASK_DETAILSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID.ORDER_TASKS_LISTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID.ORDER_TASKS_LISTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID.ORDER_TASKS_LISTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.ORDER_TASKS_LISTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_ID)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDER_TASKS_DETAILS_LIST_ORDER_IDTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVE">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVE.PRODUCT_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVE.PRODUCT_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVE.PRODUCT_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.PRODUCT_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.PRODUCT_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.PRODUCT_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.PRODUCT_LIST_ACTIVE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.PRODUCT_LIST_ACTIVE)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.PRODUCT_LIST_ACTIVETableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUE">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUE.ORDER_DETAILSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUE.ORDER_DETAILSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUE.ORDER_DETAILSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.ORDER_DETAILSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System.ORDERS_LIST_DUE,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System.ORDERS_LIST_DUE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System.ORDERS_LIST_DUE,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System.ORDERS_LIST_DUE)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System.ORDERS_LIST_DUETableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS.ORDER_DETAILS_PAYMENTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS.ORDER_DETAILS_PAYMENTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS.ORDER_DETAILS_PAYMENTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.ORDER_DETAILS_PAYMENTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_ORDER_PAYMENTSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_Locations">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_Locations.COMPANY_LOCATIONSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_Locations.COMPANY_LOCATIONSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_Locations.COMPANY_LOCATIONSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.COMPANY_LOCATIONSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._LAUNDRY_DB_Company_Locations,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._LAUNDRY_DB_Company_Locations,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._LAUNDRY_DB_Company_Locations,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._LAUNDRY_DB_Company_Locations)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._LAUNDRY_DB_Company_LocationsTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

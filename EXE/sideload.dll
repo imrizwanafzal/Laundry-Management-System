@@ -1,0 +1,8 @@
+[SIDELOAD]
+DBMS=SNC SQL Native Client(OLE DB)
+ServerName=.\SQL14
+Database=LAUNDRY-DB
+LogId=sa
+id=sqlsql
+DBparam=Database='LAUNDRY-DB',Provider='SQLNCLI10',TrimSpaces=1
+AutoCommit=False
