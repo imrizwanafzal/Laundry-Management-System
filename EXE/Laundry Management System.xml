@@ -247,6 +247,11 @@ Laundry Management System
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.logo_sms_png_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Laundry_Management_System.My.Resources.Resources.members">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -273,6 +278,11 @@ Laundry Management System
 </summary>
 </member>
 <member name="P:Laundry_Management_System.My.Resources.Resources.Slider_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.sms_png_7">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
@@ -1328,6 +1338,71 @@ Update Order Option
 </summary>
 </member>
 <member name="T:Laundry_Management_System._NEWS_ALERTTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIG">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIG.SMS_CONFIGSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIG.SMS_CONFIGSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIG.SMS_CONFIGSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIGTableAdapters.SMS_CONFIGSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.UpdateUpdatedRows(Laundry_Management_System._SMS_CONFIG,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.UpdateInsertedRows(Laundry_Management_System._SMS_CONFIG,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.UpdateDeletedRows(Laundry_Management_System._SMS_CONFIG,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.UpdateAll(Laundry_Management_System._SMS_CONFIG)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Laundry_Management_System._SMS_CONFIGTableAdapters.TableAdapterManager.SelfReferenceComparer">
 <summary>
 Used to sort self-referenced table's rows
 </summary>
