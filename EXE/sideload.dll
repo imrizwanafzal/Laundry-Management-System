@@ -7,4 +7,3 @@ id=sqlsql
 DBparam=Database='LAUNDRY-DB',Provider='SQLNCLI10',TrimSpaces=1
 AutoCommit=False
 username=admin
-userid=1
