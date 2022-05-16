@@ -262,12 +262,22 @@ Laundry Management System
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.purple_button">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Laundry_Management_System.My.Resources.Resources.red_button">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
 <member name="P:Laundry_Management_System.My.Resources.Resources.Setting_png">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.Silver_Button">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
