@@ -157,6 +157,11 @@ Laundry Management System
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member>
+<member name="P:Laundry_Management_System.My.Resources.Resources.floral_lines_curved_boxed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
 <member name="P:Laundry_Management_System.My.Resources.Resources.gold_button">
 <summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
